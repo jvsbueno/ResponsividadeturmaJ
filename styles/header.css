@@ -1,11 +1,17 @@
 .cabecalho{
     display:flex;
     background-color: var(--cor-cabecalho);
+    justify-content: space-between;
+    align-items: center;
 }
 
 .conteiner-titulo{
     display: none;
 } 
+
+.conteiner{
+    display: flex;
+}
 
 .cabecalho-paragrafo{
     display: none;
