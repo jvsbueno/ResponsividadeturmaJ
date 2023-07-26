@@ -1,17 +1,25 @@
 .cabecalho{
+    display:flex;
     background-color: var(--cor-cabecalho);
 }
 
 .conteiner-titulo{
     display: none;
 } 
-.conteiner{
-    display: flex;
-} 
 
-@media screen and(min-width 620px) {
+.cabecalho-paragrafo{
+    display: none;
+}
+
+@media screen and(min-width:620px) {
     
     .conteiner-titulo{
         display: inline;
     } 
+}
+
+@media screen and(min-width:1024px) {
+    .cabecalho-paragrafo{
+        display: inline;
+    }
 }
