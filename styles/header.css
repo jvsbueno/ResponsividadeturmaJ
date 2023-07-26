@@ -1,0 +1,17 @@
+.cabecalho{
+    background-color: var(--cor-cabecalho);
+}
+
+.conteiner-titulo{
+    display: none;
+} 
+.conteiner{
+    display: flex;
+} 
+
+@media screen and(min-width 620px) {
+    
+    .conteiner-titulo{
+        display: block;
+    } 
+}
