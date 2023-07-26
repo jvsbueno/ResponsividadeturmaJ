@@ -1,5 +1,6 @@
-@import url(styles/header.css)
-:root{
+@import url(styles/header.css);
+
+:root {
     --cor-de-fundo: #9949b4;
     --cor-cabecalho: #FFFFFF;
     
