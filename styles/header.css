@@ -32,7 +32,7 @@
 }
 
 .conteiner__botao{
-display: none;
+    display: none;
 
 }
 .conteiner__botao:checked~.lista__menu{
