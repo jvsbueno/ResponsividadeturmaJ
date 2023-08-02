@@ -49,6 +49,7 @@ display: none;
 
 .lista__menu-link{
     color: var(--roxo);
+    text-decoration: none;
 }
 
 .container__titulo{

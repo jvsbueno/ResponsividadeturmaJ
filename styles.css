@@ -11,5 +11,5 @@
 
 body{
     background-color: var(--cor-de-fundo);
-    font-family: "Poppins";
+    font-family: var(--fonte-principal);
 }
