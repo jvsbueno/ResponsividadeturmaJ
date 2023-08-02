@@ -55,8 +55,11 @@ display: none;
 }
 
 @media screen and (min-width: 1024px){
-    .lista__menu-titulo{
+    .container__titulo{
         display: flex;
         font-family: var(--fonte-secundaria);
+        font-size: 30px;
+        font-weight:300;
     }
+    
 }
