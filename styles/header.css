@@ -93,4 +93,7 @@
         display: block;
         width: auto;
     }
+    .opcoes__botao{
+        display: none;
+    }
 }
