@@ -73,4 +73,7 @@
     .opcoes{
         display: flex;
     }
+    .opcoes__lista{
+        padding: 3px;
+    }
 }
