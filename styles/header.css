@@ -56,6 +56,10 @@
     display: none;
 }
 
+.opcoes{
+    display: none;
+}
+
 @media screen and (min-width: 1024px){
     .container__titulo{
         display: flex;
@@ -65,5 +69,8 @@
     }
     .container__titulo--negrito{
         font-weight: 400;
+    }
+    .opcoes{
+        display: flex;
     }
 }
