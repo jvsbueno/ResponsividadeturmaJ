@@ -79,7 +79,7 @@
         text-transform: uppercase;
         color: var(--preto);
     }
-    .opcoes__lista a{
+    .opcoes__link {
         text-decoration: none;
         color: var(--preto);
     }
