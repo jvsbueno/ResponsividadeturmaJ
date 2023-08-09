@@ -76,8 +76,11 @@
     }
     .opcoes__lista{
         padding: 0 1em;
+        text-transform: uppercase;
+        color: var(--preto);
     }
     .opcoes__lista a{
         text-decoration: none;
+        color: var(--preto);
     }
 }
