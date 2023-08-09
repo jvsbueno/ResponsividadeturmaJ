@@ -86,4 +86,7 @@
     .conteiner__imagem-transparente:{
         display: none;
     }
+    .cabecalho__menu{
+        display: none;
+    }
 }
