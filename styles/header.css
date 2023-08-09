@@ -77,4 +77,7 @@
     .opcoes__lista{
         padding: 0 1em;
     }
+    .opcoes__lista a{
+        text-decoration: none;
+    }
 }
