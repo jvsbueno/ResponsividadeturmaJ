@@ -89,4 +89,8 @@
     .cabecalho__menu{
         display: none;
     }
+    .opcoes__botao:checked~.lista__menu{
+        display: block;
+        width: auto;
+    }
 }
