@@ -83,7 +83,7 @@
         text-decoration: none;
         color: var(--preto);
     }
-    .conteiner__imagem-transparente:{
+    .conteiner__imagem-transparente{
         display: none;
     }
     .cabecalho__menu{
