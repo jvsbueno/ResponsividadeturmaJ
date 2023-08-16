@@ -60,7 +60,7 @@
     display: none;
 }
 
-.container__link{
+.container__texto{
     display: none;
 }
 
@@ -114,5 +114,8 @@
     }
     .opções{
         margin-right: auto;
+    }
+    .container__texto {
+        display: block;
     }
 }
